@@ -1,0 +1,52 @@
+{
+  "name": "babylonjs-node-ts-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "@types/babylonjs": "^2.3.31",
+    "@types/chai": "^3.4.35",
+    "@types/koa": "^2.0.39",
+    "@types/koa-bodyparser": "^3.0.23",
+    "@types/koa-send": "^3.3.0",
+    "@types/koa-static": "^2.0.22",
+    "@types/mocha": "^2.2.40",
+    "@types/pug": "^2.0.4",
+    "awesome-typescript-loader": "^3.1.2",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sass-lint": "^1.3.2",
+    "gulp-tslint": "^7.1.0",
+    "gulp-typedoc": "^2.0.2",
+    "gulp-typescript": "^3.1.6",
+    "html-webpack-plugin": "^2.28.0",
+    "karma": "^1.5.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-send": "^3.3.0",
+    "koa-static": "^3.0.0",
+    "node-sass": "^4.5.1",
+    "pug": "^2.0.0-beta11",
+    "pug-loader": "^2.3.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.0",
+    "tslint": "^4.5.1",
+    "typedoc": "^0.5.9",
+    "webpack": "^2.3.2",
+    "webpack-split-by-path": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdream/babylonjs-node-ts-starter.git"
+  },
+  "author": "Vlad Mashkin",
+  "license": "MIT"
+}
