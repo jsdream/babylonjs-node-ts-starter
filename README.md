@@ -1,6 +1,6 @@
 # BabylonsJS Node TypeScript starter kit
 
-> An BabylonsJS starter kit featuring [BabylonsJS](http://babylonjs.com), [https://github.com/koajs/koa](Koa 2), 
+> An BabylonsJS starter kit featuring [BabylonsJS](http://babylonjs.com), [Koa 2](https://github.com/koajs/koa), 
 [Karma](https://karma-runner.github.io), [Jasmine](https://jasmine.github.io/), [Mocha](https://mochajs.org/), 
 [TypeScript](https://www.typescriptlang.org/), [Sass](https://sass-lang.com/), 
 [TSLint](https://palantir.github.io/tslint/), [Sass Lint](https://github.com/sasstools/sass-lint) 
