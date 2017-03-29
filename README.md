@@ -6,6 +6,11 @@
 [TSLint](https://palantir.github.io/tslint/), [Sass Lint](https://github.com/sasstools/sass-lint) 
 and [Webpack 2](https://webpack.js.org/).
 
+## Running locally
+- `npm install`
+- `gulp`
+- Now you should be able to access boilerplate Babylon.js application at `http://localhost:3214`.
+
 ## Structure
 ```
 babylonjs-node-ts-starter
